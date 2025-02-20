@@ -1,0 +1,31 @@
+OrderID,CustomerID,OrderDate,ShipDate,ShipMode,ProductCategory,ProductSubCategory,ProductID,ProductName,Quantity,PricePerUnit,Discount,TotalPrice,Region,Country,SalesRep,OrderStatus,AmountPaid,Underpayment,ReasonForUnderpayment
+1001,C008,1/15/24,1/18/24,Standard,Electronics,Mobile Phones,P101,Galaxy S20,2,800,0.1,1440,North,USA,Alice Johnson,Completed,1440,0,No underpayment
+1002,C011,1/16/24,1/19/24,Express,Furniture,Office Chairs,P102,Ergonomic Chair,3,150,0.05,427.5,South,Canada,Bob Smith,Completed,427.5,0,No underpayment
+1003,C005,1/17/24,1/21/24,Standard,Clothing,Jackets,P103,Leather Jacket,1,250,0.15,212.5,East,USA,Clara Evans,Returned,211.51,0.99,Error in manual entry
+1004,C003,1/18/24,1/22/24,Standard,Electronics,Laptops,P104,MacBook Air,1,1200,0.1,1080,West,USA,David Brown,Completed,1080,0,No underpayment
+1005,C009,1/19/24,1/24/24,Standard,Home Appliances,Refrigerators,P105,Whirlpool Fridge,1,900,0.05,855,North,Mexico,Emily Davis,Completed,855,0,No underpayment
+1006,C005,1/20/24,1/23/24,Express,Books,Fiction,P106,The Great Gatsby,5,20,0.2,80,East,USA,Frank Miller,Completed,79.9,0.1,Rounding adjustment
+1007,C004,1/21/24,1/25/24,Standard,Electronics,Tablets,P107,iPad Pro,2,700,0.1,1260,South,USA,Grace Lee,Completed,1255.01,4.99,Alleged bank's system error
+1008,C001,1/22/24,1/26/24,Express,Furniture,Desks,P108,Adjustable Desk,1,500,0.08,460,West,Canada,Hank Wilson,Completed,460,0,No underpayment
+1009,C002,1/23/24,1/27/24,Standard,Toys,Board Games,P109,Chess Set,3,30,0,90,North,USA,Irene Taylor,Pending,90,0,No underpayment
+1010,C004,1/24/24,1/28/24,Express,Sports,Tennis Equipment,P110,Tennis Racket,2,120,0.1,216,East,USA,John Martinez,Completed,214,2,Unapplied discount
+1011,C005,2/1/24,2/5/24,Express,Electronics,Mobile Phones,P101,Galaxy S20,1,800,0.05,760,East,Canada,Alice Johnson,Completed,759.01,0.99,Rounding adjustment
+1012,C002,2/2/24,2/6/24,Standard,Furniture,Office Chairs,P102,Ergonomic Chair,2,150,0.1,270,South,USA,Bob Smith,Completed,270,0,No underpayment
+1013,C008,2/3/24,2/7/24,Express,Clothing,Jackets,P103,Leather Jacket,1,250,0.2,200,West,Mexico,Clara Evans,Returned,200,0,No underpayment
+1014,C009,2/4/24,2/8/24,Standard,Electronics,Laptops,P104,MacBook Air,1,1200,0.15,1020,North,USA,David Brown,Completed,1020,0,No underpayment
+1015,C006,2/5/24,2/9/24,Express,Home Appliances,Washing Machines,P111,LG Washing Machine,1,700,0.1,630,East,Canada,Emily Davis,Completed,629.9,0.1,Rounding adjustment
+1016,C004,2/6/24,2/10/24,Standard,Books,Fiction,P106,The Great Gatsby,3,20,0.25,45,South,USA,Frank Miller,Completed,44.2,0.8,Customer oversight during payment
+1017,C001,2/7/24,2/11/24,Express,Electronics,Tablets,P107,iPad Pro,1,700,0.05,665,West,USA,Grace Lee,Completed,664.2,0.8,Payment system issue
+1018,C006,2/8/24,2/12/24,Standard,Furniture,Beds,P112,King Size Bed,1,1200,0.1,1080,North,Mexico,Hank Wilson,Completed,1079.01,0.99,Rounding adjustment
+1019,C006,2/9/24,2/13/24,Express,Toys,Board Games,P109,Chess Set,4,30,0,120,East,USA,Irene Taylor,Completed,119.5,0.5,Minor payment discrepancy
+1020,C002,2/10/24,2/14/24,Standard,Sports,Football Equipment,P113,Football,3,25,0.1,67.5,South,Canada,John Martinez,Completed,67.5,0,No underpayment
+1021,C008,3/1/24,3/5/24,Standard,Electronics,Mobile Phones,P101,Galaxy S20,2,800,0.08,1472,North,USA,Alice Johnson,Completed,1472,0,No underpayment
+1022,C007,3/2/24,3/6/24,Express,Furniture,Office Chairs,P102,Ergonomic Chair,4,150,0.1,540,East,Canada,Bob Smith,Completed,540,0,No underpayment
+1023,C006,3/3/24,3/7/24,Standard,Clothing,Jackets,P103,Leather Jacket,2,250,0.15,425,West,USA,Clara Evans,Completed,424.01,0.99,Unknown discrepancy
+1024,C007,3/4/24,3/8/24,Express,Electronics,Laptops,P104,MacBook Air,1,1200,0.12,1056,South,Mexico,David Brown,Pending,1056,0,No underpayment
+1025,C008,3/5/24,3/9/24,Standard,Home Appliances,Refrigerators,P105,Whirlpool Fridge,1,900,0.1,810,East,USA,Emily Davis,Completed,810,0,No underpayment
+1026,C006,3/6/24,3/10/24,Express,Books,Non-Fiction,P114,Sapiens,2,25,0.2,40,West,Canada,Frank Miller,Completed,39.9,0.1,Rounding adjustment
+1027,C007,3/7/24,3/11/24,Standard,Electronics,Tablets,P107,iPad Pro,3,700,0.05,1995,North,USA,Grace Lee,Completed,1995,0,No underpayment
+1028,C009,3/8/24,3/12/24,Express,Furniture,Desks,P108,Adjustable Desk,1,500,0.12,440,East,Mexico,Hank Wilson,Completed,440,0,No underpayment
+1029,C011,3/9/24,3/13/24,Standard,Toys,Board Games,P109,Chess Set,2,30,0,60,South,Canada,Irene Taylor,Completed,60,0,No underpayment
+1030,C004,3/10/24,3/14/24,Express,Sports,Tennis Equipment,P110,Tennis Racket,1,120,0.1,108,West,USA,John Martinez,Completed,107.01,0.99,Rounding adjustment
